@@ -1,17 +1,17 @@
 {
-  "name": "iolmobile-jx",
+  "name": "jx",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "jx.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:evansaf/iolmobile-jx.git"
+    "url": "https://github.com/evanx/jx.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Evan Summers",
+  "license": "Apache Software License 2.0",
   "dependencies": {
     "html": "0.0.7",
     "moment": "~2.8.4"
