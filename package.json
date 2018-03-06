@@ -14,6 +14,6 @@
   "license": "Apache Software License 2.0",
   "dependencies": {
     "html": "0.0.7",
-    "moment": "~2.8.4"
+    "moment": "^2"
   }
 }
